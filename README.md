@@ -13,6 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgement](#acknowledgement)
 
 ## Overview
 
@@ -41,9 +42,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 <link href="style.css" rel="stylesheet">
 ```
 
+3. Introduce modern CSS reset to this project to initialize the html style.
+
+4. Learning the differences between 'px' and 'rem', then use them more wisely.
+
 ### Continued development
 
 1. Keep using css and learn scss.
+
 2. Introducing ReactJS in the future project.
 
 ### Useful resources
@@ -55,3 +61,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Frontend Mentor - [@ChiaChiaWei](https://www.frontendmentor.io/profile/ChiaChiaWei)
 - LinkedIn - [@Chia-Wei Kao](www.linkedin.com/in/chia-wei-kao)
+
+## Acknowledgement
+
+Especially thank to [@Stroudy](https://www.frontendmentor.io/profile/Stroudy), who had given me know-how of css and practical advices.
